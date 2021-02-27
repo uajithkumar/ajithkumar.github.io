@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(a.jpg) no-repeat;
+    background: url(a.jpg) ;
     background-size: cover;
   }
   .box{
@@ -14,6 +14,7 @@ body{
     margin-top: 5%;
     color: white;
     font-family: 'Century Gothic',sans-serif;
+    position: relative;
   }
   .box-img{
     border-radius: 50%;

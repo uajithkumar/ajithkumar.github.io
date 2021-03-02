@@ -45,6 +45,7 @@ body{
   }
   .box li a{
     color: white;
+    opacity: 0.5;
     text-decoration: none;
     font-size: 60px;
     transition: all ease-in-out 250ms;
